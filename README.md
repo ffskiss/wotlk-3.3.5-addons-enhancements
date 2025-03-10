@@ -9,9 +9,13 @@ Removes annoying sounds that can't be disabled i.e fizzle sounds
 Replaces the defaults fonts to more easy to read fonts
 
 **enbseries.zip**
-ENBSeries is a graphic modifications project for games. The main idea is to allow every gamer to configure how their game will look with their own style, so every player could share settings with others. Many games may look much better and ENBSeries is the easiest way to improve them.
+ENBSeries is a graphic modifications project for games. The main idea is to allow every gamer to configure how their game will look with their own style, so every player could share settings with others. Many games may look much better and ENBSeries is the easiest way to improve them. More information can be found here: https://www.wowinterface.com/downloads/info21309-WorldofEnhancedWarcraftENB.html
 
-More information can be found here: https://www.wowinterface.com/downloads/info21309-WorldofEnhancedWarcraftENB.html
+**Icons.7z**
+Replace default icons with cleaner icons For more information: https://www.wowinterface.com/downloads/info19844-CleanIcons-Thin.html
+
+
+
 
 
 Find the location of the Wow.exe file and place the files/folder inside that folder as per below:
