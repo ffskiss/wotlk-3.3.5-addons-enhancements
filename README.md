@@ -14,8 +14,22 @@
 <p dir="auto">&nbsp;</p>
 <p dir="auto"><strong>Large Address Aware:</strong> As WOTLK is old it can't see higher memory configurations, if you are installing the extra texture packs you will need to run this and apply it against the wow.exe file. YOu might want to do this even if you don't install the HD texture packs.&nbsp;</p>
 <p dir="auto">&nbsp;</p>
-<p dir="auto"><strong>Addons:</strong> I have included a base set of addons to get you up and running. These also includes addons that other addons rely on i.e ACE, Shared Media.&nbsp; You will have to make sure that you enable out of date addons for some of the addons to&nbsp; work.</p>
+<p dir="auto">For more information: <a href="https://www.techpowerup.com/forums/threads/large-address-aware.112556/">https://www.techpowerup.com/forums/threads/large-address-aware.112556/</a></p>
+<p dir="auto">&nbsp;</p>
+<p dir="auto"><strong>Addons:</strong> I have included a base set of addons to get you up and running. These also includes addons that other addons rely on i.e ACE, SHared Media.&nbsp; YOu will have to make sure that you enable out of date addons for some of the addons to&nbsp; work.</p>
 <p dir="auto">Full UI replacements are user prefrence so none is included</p>
+<p dir="auto">&nbsp;</p>
+<p dir="auto">More Addons:&nbsp; Below is a list of websites you can obtain more addons. some you may have to filter for WOTLK 3.3.5 game client. note not all addons work on all the private servers.</p>
+<p dir="auto">&nbsp;</p>
+<ul>
+<li dir="auto"><a href="https://felbite.com/wow-3-3-5-addons/">https://felbite.com/wow-3-3-5-addons/</a></li>
+<li dir="auto"><a href="https://forum.warmane.com/showthread.php?t=453775">https://forum.warmane.com/showthread.php?t=453775</a></li>
+<li dir="auto"><a href="https://legacy-wow.com/wotlk-addons/">https://legacy-wow.com/wotlk-addons/</a></li>
+<li dir="auto"><a href="https://github.com/NoM0Re/WoW-3.3.5a-Addons">https://github.com/NoM0Re/WoW-3.3.5a-Addons</a></li>
+<li dir="auto"><a href="https://github.com/ElvUI-WotLK/ElvUI">https://github.com/ElvUI-WotLK/ElvUI</a></li>
+<li dir="auto"><a href="https://www.curseforge.com/wow">https://www.curseforge.com/wow</a></li>
+<li dir="auto"><a href="https://www.wowinterface.com/addons.php">https://www.wowinterface.com/addons.php</a></li>
+</ul>
 <p dir="auto">&nbsp;</p>
 <p dir="auto">Find the location of the Wow.exe file and place the files/folder inside that folder as per below:</p>
 <p dir="auto"><strong>WOW FOLDER</strong></p>
@@ -24,7 +38,7 @@
 <p dir="auto">/Errors</p>
 <p dir="auto"><strong>/Fonts</strong>&nbsp;</p>
 <p dir="auto">/Interface</p>
-<p dir="auto">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/AddOns</p>
+<p dir="auto">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/AddOns&nbsp;</p>
 <p dir="auto">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /Icons</p>
 <p dir="auto">/Logs&nbsp;</p>
 <p dir="auto"><strong>/Sound</strong>&nbsp;</p>
