@@ -14,7 +14,7 @@
 <p dir="auto">&nbsp;</p>
 <p dir="auto"><strong>Large Address Aware:</strong> As WOTLK is old it can't see higher memory configurations, if you are installing the extra texture packs you will need to run this and apply it against the wow.exe file. YOu might want to do this even if you don't install the HD texture packs.&nbsp;</p>
 <p dir="auto">&nbsp;</p>
-<p dir="auto"><strong>Addons:</strong> I have included a base set of addons to get you up and running. These also includes addons that other addons rely on i.e ACE, SHared Media.&nbsp; YOu will have to make sure that you enable out of date addons for some of the addons to&nbsp; work.</p>
+<p dir="auto"><strong>Addons:</strong> I have included a base set of addons to get you up and running. These also includes addons that other addons rely on i.e ACE, Shared Media.&nbsp; You will have to make sure that you enable out of date addons for some of the addons to&nbsp; work.</p>
 <p dir="auto">Full UI replacements are user prefrence so none is included</p>
 <p dir="auto">&nbsp;</p>
 <p dir="auto">Find the location of the Wow.exe file and place the files/folder inside that folder as per below:</p>
